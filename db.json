@@ -1,0 +1,1359 @@
+{
+  "menuItems": [
+    {
+      "card": {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+          "title": "Recommended",
+          "itemCards": [
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "63736544",
+                  "name": "Garlic Chicken Dry",
+                  "category": "Chinese",
+                  "description": "Serves 1 | Non veg",
+                  "imageId": "wf2bvdgc5gqsw5qmjq9o",
+                  "inStock": 1,
+                  "price": 18000,
+                  "variants": {
+                    "Qtr":180,
+                    "Half":350,
+                    "Full":460
+                  },
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "showImage": true,
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.2",
+                      "ratingCount": "33 ratings",
+                      "ratingCountV2": "33"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "54475294",
+                  "name": "Chilly Beef Dry",
+                  "category": "Chinese",
+                  "description": "Medium Spicy | Serves 1",
+                  "imageId": "fdhfimqtgcd7hf49k196",
+                  "inStock": 1,
+                  "price": 18000,
+                  "variants": {
+                    "Qtr":180,
+                    "Half":350,
+                    "Full":460
+                  },
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "spiceLevel": "MEDIUMSPICY",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "showImage": true,
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.2",
+                      "ratingCount": "28 ratings",
+                      "ratingCountV2": "28"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "54475295",
+                  "name": "Chilly Beef",
+                  "category": "Chinese",
+                  "description": "Serves 1 | A mouthwatering dish prepared with cooked beef to golden brown and stir fried with assorted vegetables and spicy sauces with gravy.",
+                  "imageId": "iaqcwsp7zs9u3ms4gxqv",
+                  "inStock": 1,
+                  "price": 16500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "showImage": true,
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.2",
+                      "ratingCount": "58 ratings",
+                      "ratingCountV2": "58"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "54475296",
+                  "name": "Chilly Goby Dry",
+                  "category": "Chinese",
+                  "description": "Serves 1",
+                  "imageId": "dsxuk4r8bvfjqnz8ukq7",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 11000,
+                  "variants": {
+                    "Qtr":110,
+                    "Half":350,
+                    "Full":460
+                  },
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "showImage": true,
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.4",
+                      "ratingCount": "60 ratings",
+                      "ratingCountV2": "60"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "54475297",
+                  "name": "Chilly Goby",
+                  "category": "Chinese",
+                  "description": "Serves 1",
+                  "imageId": "cghpo4w93zrtpwpvvq5i",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 10000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "showImage": true,
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.5",
+                      "ratingCount": "80 ratings",
+                      "ratingCountV2": "80"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "54475298",
+                  "name": "Goby Manchurian Dry",
+                  "category": "Chinese",
+                  "description": "Serves 1",
+                  "imageId": "fysxyyujqzktwdrotgsa",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 12500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "showImage": true,
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.5",
+                      "ratingCount": "78 ratings",
+                      "ratingCountV2": "78"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "54475299",
+                  "name": "Goby Manchurian",
+                  "category": "Chinese",
+                  "description": "Serves 1",
+                  "imageId": "xuf33fxzgyghkkve7cli",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 11000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "showImage": true,
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.3",
+                      "ratingCount": "126 ratings",
+                      "ratingCountV2": "126"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "15276628",
+                  "name": "Chicken Roast",
+                  "category": "Main Course",
+                  "description": "Serves 1",
+                  "imageId": "ugigmo6l1k4viasahu1s",
+                  "inStock": 1,
+                  "price": 16500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "showImage": true,
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.5",
+                      "ratingCount": "267 ratings",
+                      "ratingCountV2": "267"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "54491995",
+                  "name": "Chicken Curry",
+                  "category": "Main Course",
+                  "description": "Serves 1",
+                  "imageId": "wulof8lualjbqunliqzh",
+                  "inStock": 1,
+                  "price": 14800,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "showImage": true,
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.5",
+                      "ratingCount": "291 ratings",
+                      "ratingCountV2": "291"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "15276636",
+                  "name": "Beef Fry",
+                  "category": "Main Course",
+                  "description": "Serves 1",
+                  "imageId": "fxqhpd2xigygjzvu25ds",
+                  "inStock": 1,
+                  "price": 16500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {
+                    "text": "Bestseller",
+                    "textColor": "#ffffff",
+                    "topBackgroundColor": "#d53d4c",
+                    "bottomBackgroundColor": "#b02331"
+                  },
+                  "showImage": true,
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "isBestseller": true,
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.3",
+                      "ratingCount": "843 ratings",
+                      "ratingCountV2": "843"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "15276638",
+                  "name": "Beef Roast",
+                  "category": "Main Course",
+                  "description": "250 gm | Serves 1",
+                  "imageId": "bxsltmhcrj7kd8sogfhv",
+                  "inStock": 1,
+                  "price": 16500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "250 gm"
+                  },
+                  "ribbon": {
+                    "text": "Bestseller",
+                    "textColor": "#ffffff",
+                    "topBackgroundColor": "#d53d4c",
+                    "bottomBackgroundColor": "#b02331"
+                  },
+                  "showImage": true,
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "isBestseller": true,
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.5",
+                      "ratingCount": "466 ratings",
+                      "ratingCountV2": "466"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "16613148",
+                  "name": "Beef Curry",
+                  "category": "Main Course",
+                  "description": "Serves 1",
+                  "imageId": "yhael0ouiy98gmk0ysge",
+                  "inStock": 1,
+                  "price": 13500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "showImage": true,
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.4",
+                      "ratingCount": "203 ratings",
+                      "ratingCountV2": "203"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "15276662",
+                  "name": "Egg Curry",
+                  "category": "Main Course",
+                  "description": "250 gm | Serves 1",
+                  "imageId": "cfufkxjmpduuqbush10e",
+                  "inStock": 1,
+                  "price": 4500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "EGG",
+                    "portionSize": "250 gm"
+                  },
+                  "ribbon": {},
+                  "showImage": true,
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.6",
+                      "ratingCount": "655 ratings",
+                      "ratingCountV2": "655"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "16861091",
+                  "name": "Egg Roast",
+                  "category": "Main Course",
+                  "description": "Serves 1 | Thick roasted gravi with egg",
+                  "imageId": "zd8wcosrh0mpu3z2bzrh",
+                  "inStock": 1,
+                  "price": 5500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "EGG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "showImage": true,
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.5",
+                      "ratingCount": "480 ratings",
+                      "ratingCountV2": "480"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "54356158",
+                  "name": "Green Peas Masala",
+                  "category": "Main Course",
+                  "description": "Serves 1",
+                  "imageId": "kzd248ri7zebywoxb4ki",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 5500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "showImage": true,
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.6",
+                      "ratingCount": "452 ratings",
+                      "ratingCountV2": "452"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "54356160",
+                  "name": "Veg Kurma",
+                  "category": "Main Course",
+                  "description": "Serves 1",
+                  "imageId": "yciwdkvzmdoijeqszwni",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 4500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "showImage": true,
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.6",
+                      "ratingCount": "330 ratings",
+                      "ratingCountV2": "330"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "15276596",
+                  "name": "Fish Curry",
+                  "category": "Main Course",
+                  "description": "Serves 1",
+                  "imageId": "wbp1wskd5otf4yablowa",
+                  "inStock": 1,
+                  "price": 9500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {
+                    "text": "Bestseller",
+                    "textColor": "#ffffff",
+                    "topBackgroundColor": "#d53d4c",
+                    "bottomBackgroundColor": "#b02331"
+                  },
+                  "showImage": true,
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "isBestseller": true,
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.6",
+                      "ratingCount": "778 ratings",
+                      "ratingCountV2": "778"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "15276645",
+                  "name": "Vatta Mulaku",
+                  "category": "Main Course",
+                  "description": "Serves 1",
+                  "imageId": "kq3kmxu7t9tfgjmej8nk",
+                  "inStock": 1,
+                  "price": 9500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "showImage": true,
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.4",
+                      "ratingCount": "129 ratings",
+                      "ratingCountV2": "129"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "88500451",
+                  "name": "Karimeen Fry ( Pearl Spot )",
+                  "category": "Main Course",
+                  "description": "Serves 1",
+                  "imageId": "oryqzcsue7ogfql82r39",
+                  "inStock": 1,
+                  "price": 13300,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "showImage": true,
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.4",
+                      "ratingCount": "46 ratings",
+                      "ratingCountV2": "46"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "63011587",
+                  "name": "Bru Coffee",
+                  "category": "Hot & Snaks",
+                  "description": "Serves 1",
+                  "imageId": "mscvm4nrsmqdqchtcti2",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 2500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "showImage": true,
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.6",
+                      "ratingCount": "53 ratings",
+                      "ratingCountV2": "53"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "63011985",
+                  "name": "Parippu Vada",
+                  "category": "Hot & Snaks",
+                  "description": "1 piece | Serves 1",
+                  "imageId": "armyw8nrkruvmilehrxl",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 1500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "1 piece"
+                  },
+                  "ribbon": {},
+                  "showImage": true,
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.3",
+                      "ratingCount": "132 ratings",
+                      "ratingCountV2": "132"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "82043092",
+                  "name": "Fresh Lime",
+                  "category": "Beverages",
+                  "description": "Serves 1",
+                  "imageId": "igotoocq0az5te0ft1kc",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 3000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "showImage": true,
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.4",
+                      "ratingCount": "343 ratings",
+                      "ratingCountV2": "343"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            }
+          ],
+          "type": "CATEGORY_TYPE_RECOMMENDED"
+        }
+      }
+    },
+    {
+      "card": {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+          "title": "Biriyani & Rice",
+          "itemCards": [
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "15276601",
+                  "name": "Egg Biriyani",
+                  "category": "Biriyani & Rice",
+                  "description": "Serves 1",
+                  "imageId": "e8pyfggbevwd9qt6lzcw",
+                  "inStock": 1,
+                  "price": 13500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "EGG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.4",
+                      "ratingCount": "131 ratings",
+                      "ratingCountV2": "131"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "54356162",
+                  "name": "Chicken Biryani",
+                  "category": "Biriyani & Rice",
+                  "description": "250 gm | Serves 1 | Richly flavored aromatic rice layered with marinated chicken pieces in a delicate blend of whole spices.",
+                  "imageId": "szeq3ow9pi11e2ejipvr",
+                  "inStock": 1,
+                  "price": 19000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "250 gm"
+                  },
+                  "ribbon": {
+                    "text": "Bestseller",
+                    "textColor": "#ffffff",
+                    "topBackgroundColor": "#d53d4c",
+                    "bottomBackgroundColor": "#b02331"
+                  },
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "isBestseller": true,
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.4",
+                      "ratingCount": "1733 ratings",
+                      "ratingCountV2": "1733"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "54356163",
+                  "name": "Beef Biryani",
+                  "category": "Biriyani & Rice",
+                  "description": "Serves 1 | Slow-cooked rice layered with beef pieces in a delicate blend of whole spices.",
+                  "imageId": "wgalhytkw2eubwefxu7h",
+                  "inStock": 1,
+                  "price": 16500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {
+                    "text": "Bestseller",
+                    "textColor": "#ffffff",
+                    "topBackgroundColor": "#d53d4c",
+                    "bottomBackgroundColor": "#b02331"
+                  },
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "isBestseller": true,
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.4",
+                      "ratingCount": "438 ratings",
+                      "ratingCountV2": "438"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "54356164",
+                  "name": "Dum Rice",
+                  "category": "Biriyani & Rice",
+                  "description": "Serves 1",
+                  "imageId": "jhgu5xppts3vklo2ydtm",
+                  "inStock": 1,
+                  "price": 9500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.6",
+                      "ratingCount": "227 ratings",
+                      "ratingCountV2": "227"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "57382682",
+                  "name": "Chicken Biryani - Half",
+                  "category": "Biriyani & Rice",
+                  "description": "250 gm | Serves 1 | Rice + Single Piece Chicken + Raitha + Pickle",
+                  "imageId": "gi6la9p2bi2wlvw5rf4r",
+                  "inStock": 1,
+                  "price": 12000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "250 gm"
+                  },
+                  "ribbon": {
+                    "text": "Bestseller",
+                    "textColor": "#ffffff",
+                    "topBackgroundColor": "#d53d4c",
+                    "bottomBackgroundColor": "#b02331"
+                  },
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "isBestseller": true,
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.4",
+                      "ratingCount": "1018 ratings",
+                      "ratingCountV2": "1018"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "63355022",
+                  "name": "Chicken Biryani Elayil Pothinjathu With Egg",
+                  "category": "Biriyani & Rice",
+                  "description": "750 gm | Serves 1 | Salad pickle egg(special)",
+                  "inStock": 1,
+                  "price": 20500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "750 gm"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.5",
+                      "ratingCount": "690 ratings",
+                      "ratingCountV2": "690"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "15276599",
+                  "name": "Veg Biriyani",
+                  "category": "Biriyani & Rice",
+                  "description": "Serves 1",
+                  "isVeg": 1,
+                  "price": 12200,
+                  "variants": {},
+                  "variantsV2": {},
+                  "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                  "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.4",
+                      "ratingCount": "79 ratings",
+                      "ratingCountV2": "79"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "card": {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+          "title": "Indian Breads",
+          "itemCards": [
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "54356153",
+                  "name": "Porotta",
+                  "category": "Indian Breads",
+                  "description": "Serves 1",
+                  "imageId": "keilltzwkoqbst2xb4rn",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 1500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.5",
+                      "ratingCount": "1908 ratings",
+                      "ratingCountV2": "1908"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "54356154",
+                  "name": "Chappathi",
+                  "category": "Indian Breads",
+                  "description": "Serves 1",
+                  "imageId": "loeckmmkvh9oqphzk6yi",
+                  "inStock": 1,
+                  "isVeg": 1,
+                  "price": 1500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.6",
+                      "ratingCount": "703 ratings",
+                      "ratingCountV2": "703"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "15276587",
+                  "name": "Appam",
+                  "category": "Indian Breads",
+                  "description": "Serves 1",
+                  "imageId": "zdfcq3ergwrl39vovw4z",
+                  "isVeg": 1,
+                  "price": 1500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "nextAvailableAtMessage": "Next available at 7:30 am, tomorrow",
+                  "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.6",
+                      "ratingCount": "900 ratings",
+                      "ratingCountV2": "900"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "15276589",
+                  "name": "Idiyappam",
+                  "category": "Indian Breads",
+                  "description": "Serves 1",
+                  "isVeg": 1,
+                  "price": 1500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "nextAvailableAtMessage": "Next available at 7:30 am, tomorrow",
+                  "itemAttribute": {
+                    "vegClassifier": "VEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.5",
+                      "ratingCount": "411 ratings",
+                      "ratingCountV2": "411"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "card": {
+        "card": {
+          "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+          "title": "Combos",
+          "itemCards": [
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "54475290",
+                  "name": "Dum Rice + Chicken Roast",
+                  "category": "Combos",
+                  "description": "Serves 1 | Marinated and parboiled tender chicken sauteed in oil until dry seasoned with hand pound masala and spices.",
+                  "imageId": "s2e9qryelyutqpcfzbpg",
+                  "inStock": 1,
+                  "price": 26000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.5",
+                      "ratingCount": "38 ratings",
+                      "ratingCountV2": "38"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "54475291",
+                  "name": "Dum Rice + Beef Roast",
+                  "category": "Combos",
+                  "description": "Serves 1 | Marinated and parboiled tender boneless beef sauteed in oil until dry seasoned with hand pound masala and spices with dum rice.",
+                  "imageId": "via7yj5pdwihagvz0tds",
+                  "inStock": 1,
+                  "price": 26000,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.7",
+                      "ratingCount": "50 ratings",
+                      "ratingCountV2": "50"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "63014597",
+                  "name": "Parotta 3+ Beef Roast",
+                  "category": "Combos",
+                  "description": "Serves 1 | Kerala style soft flaky breads served with the spicy and slow cooked beef curry made with whole spices and shallots.",
+                  "imageId": "nc3p0qp3wtzyzw0ifqdq",
+                  "inStock": 1,
+                  "price": 20500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.6",
+                      "ratingCount": "141 ratings",
+                      "ratingCountV2": "141"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "63015634",
+                  "name": "Parotta 3+ Chicken Roast",
+                  "category": "Combos",
+                  "description": "Serves 1 | A spicy and flavourful take on the Kerala style chicken roast served with flaky layered Kerala style soft bread, one of the all time Kerala favourites.",
+                  "imageId": "nuourvg80husqkgzwvtv",
+                  "inStock": 1,
+                  "price": 20500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.4",
+                      "ratingCount": "83 ratings",
+                      "ratingCountV2": "83"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            },
+            {
+              "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                  "id": "71282263",
+                  "name": "Dum Rice+Beef Curry",
+                  "category": "Combos",
+                  "description": "Serves 1",
+                  "imageId": "g6qceanu7i5ylhfihded",
+                  "inStock": 1,
+                  "price": 20500,
+                  "variants": {},
+                  "variantsV2": {},
+                  "itemAttribute": {
+                    "vegClassifier": "NONVEG",
+                    "portionSize": "Serves 1"
+                  },
+                  "ribbon": {},
+                  "type": "ITEM",
+                  "itemBadge": {},
+                  "badgesV2": {},
+                  "ratings": {
+                    "aggregatedRating": {
+                      "rating": "4.6",
+                      "ratingCount": "9 ratings",
+                      "ratingCountV2": "9"
+                    }
+                  }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
